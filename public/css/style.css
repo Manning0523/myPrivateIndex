@@ -900,7 +900,7 @@ a {
          .single-porfolio-item .img-description{
           position: absolute;
           bottom: 0px;
-          background-color: #02020285;
+          background-color: rgba(0, 0, 0, 0.6);;
           color: #fff;
           width: 100%;
          }
