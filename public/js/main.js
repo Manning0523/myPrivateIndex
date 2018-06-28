@@ -6,7 +6,7 @@
 		
 	//typed activate
     $('.header-inner h6').typed({
-        strings: ["a GISer，good at Web ", "a Full stack engineer， a bit PM", " a Web Developer， interest in Design"],
+        strings: ["a GISer，good at Web ", "a bit Full stack engineer & PM", " a Web Developer， interest in Design"],
         loop: true,
         startDelay: 2000,
         backDelay: 2000,
